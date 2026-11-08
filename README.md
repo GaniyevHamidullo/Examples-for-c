@@ -1,2 +1,2 @@
-# CompilerAI
-This compiler is AI based c compiler
+# Examples for c
+Examples for c is I have make code for exercise for c 
